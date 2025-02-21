@@ -1,0 +1,8 @@
+TYPE : "heatmap"
+PATH : "data/nox.csv"
+
+COLOR_CODES:
+  - "#006ebf"
+  - "#1f98f1"
+  - "#08784c"
+  - "#08784c"
